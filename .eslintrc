@@ -1,8 +1,3 @@
 {
-  "parser": "babel-eslint",
-  "extends": "airbnb-relaxed",
-  "rules": {
-    "react/prefer-stateless-function": 0
-  },
-  "plugins": ["react", "jsx-a11y", "import"]
+  "extends": "react-app"
 }
